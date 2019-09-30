@@ -1,0 +1,1 @@
+Este proyecto consiste en mostrar hello word en consola
